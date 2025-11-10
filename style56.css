@@ -1,0 +1,18 @@
+/* a{
+    font-size: larger;
+    background-color: rgb(46, 193, 193);
+}
+
+p{
+    font-size: small;
+    background-color: rgb(25, 165, 119);
+} */
+
+
+div{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(197, 219, 24);
+    padding: 20px;
+    align-items: center;
+}
